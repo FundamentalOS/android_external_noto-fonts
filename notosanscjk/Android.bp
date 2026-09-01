@@ -50,10 +50,16 @@ prebuilt_font {
     src: "NotoSansCJK-wght-400-900.otf.ttc",
 }
 
+prebuilt_font {
+    name: "NotoSansCJK-VF.otf.ttc",
+    src: "NotoSansCJK-VF.otf.ttc",
+}
+
 filegroup {
     name: "NotoSansCJK",
     required: [
         "NotoSansCJK-Regular.ttc",
+        "NotoSansCJK-VF.otf.ttc",
     ],
     srcs: ["font_config.json"],
 }

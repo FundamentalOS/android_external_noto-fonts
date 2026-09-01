@@ -50,10 +50,16 @@ prebuilt_font {
     src: "NotoSerifCJK-Regular.ttc",
 }
 
+prebuilt_font {
+    name: "NotoSerifCJK-VF.otf.ttc",
+    src: "NotoSerifCJK-VF.otf.ttc",
+}
+
 filegroup {
     name: "NotoSerifCJK",
     srcs: ["font_config.json"],
     required: [
         "NotoSerifCJK-Regular.ttc",
+        "NotoSerifCJK-VF.otf.ttc",
     ],
 }
