@@ -3,8 +3,8 @@
         "lang": "zh-Hans",
         "fonts": [
             {
-                "file": "NotoSansCJK-Regular.ttc",
-                "postScriptName": "NotoSansCJKJP-Regular",
+                "file": "NotoSansCJK-VF.otf.ttc",
+                "postScriptName": "NotoSansCJKsc-Thin",
                 "weight": "400",
                 "style": "normal",
                 "supportedAxes": "wght",
@@ -17,8 +17,8 @@
         "lang": "zh-Hant,zh-Bopo",
         "fonts": [
             {
-                "file": "NotoSansCJK-Regular.ttc",
-                "postScriptName": "NotoSansCJKJP-Regular",
+                "file": "NotoSansCJK-VF.otf.ttc",
+                "postScriptName": "NotoSansCJKtc-Thin",
                 "weight": "400",
                 "style": "normal",
                 "supportedAxes": "wght",
@@ -31,8 +31,8 @@
         "lang": "ja",
         "fonts": [
             {
-                "file": "NotoSansCJK-Regular.ttc",
-                "postScriptName": "NotoSansCJKJP-Regular",
+                "file": "NotoSansCJK-VF.otf.ttc",
+                "postScriptName": "NotoSansCJKjp-Thin",
                 "weight": "400",
                 "style": "normal",
                 "supportedAxes": "wght",
@@ -45,8 +45,8 @@
         "lang": "ko",
         "fonts": [
             {
-                "file": "NotoSansCJK-Regular.ttc",
-                "postScriptName": "NotoSansCJKJP-Regular",
+                "file": "NotoSansCJK-VF.otf.ttc",
+                "postScriptName": "NotoSansCJKkr-Thin",
                 "weight": "400",
                 "style": "normal",
                 "supportedAxes": "wght",

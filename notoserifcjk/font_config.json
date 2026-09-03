@@ -3,10 +3,11 @@
         "lang": "zh-Hans",
         "fonts": [
             {
-                "file": "NotoSerifCJK-Regular.ttc",
-                "postScriptName": "NotoSerifCJKjp-Regular",
+                "file": "NotoSerifCJK-VF.otf.ttc",
+                "postScriptName": "NotoSerifCJKsc-ExtraLight",
                 "weight": "400",
                 "style": "normal",
+                "supportedAxes": "wght",
                 "index": "2"
             }
         ],
@@ -17,10 +18,11 @@
         "lang": "zh-Hant,zh-Bopo",
         "fonts": [
             {
-                "file": "NotoSerifCJK-Regular.ttc",
-                "postScriptName": "NotoSerifCJKjp-Regular",
+                "file": "NotoSerifCJK-VF.otf.ttc",
+                "postScriptName": "NotoSerifCJKtc-ExtraLight",
                 "weight": "400",
                 "style": "normal",
+                "supportedAxes": "wght",
                 "index": "3"
             }
         ],
@@ -31,10 +33,11 @@
         "lang": "ja",
         "fonts": [
             {
-                "file": "NotoSerifCJK-Regular.ttc",
-                "postScriptName": "NotoSerifCJKjp-Regular",
+                "file": "NotoSerifCJK-VF.otf.ttc",
+                "postScriptName": "NotoSerifCJKjp-ExtraLight",
                 "weight": "400",
                 "style": "normal",
+                "supportedAxes": "wght",
                 "index": "0"
             }
         ],
@@ -45,10 +48,11 @@
         "lang": "ko",
         "fonts": [
             {
-                "file": "NotoSerifCJK-Regular.ttc",
-                "postScriptName": "NotoSerifCJKjp-Regular",
+                "file": "NotoSerifCJK-VF.otf.ttc",
+                "postScriptName": "NotoSerifCJKkr-ExtraLight",
                 "weight": "400",
                 "style": "normal",
+                "supportedAxes": "wght",
                 "index": "1"
             }
         ],
