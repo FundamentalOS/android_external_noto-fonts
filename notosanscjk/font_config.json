@@ -5,7 +5,7 @@
             {
                 "file": "NotoSansCJK-VF.otf.ttc",
                 "postScriptName": "NotoSansCJKsc-Thin",
-                "weight": "400",
+                "weight": "100",
                 "style": "normal",
                 "supportedAxes": "wght",
                 "index": "2"
@@ -19,7 +19,7 @@
             {
                 "file": "NotoSansCJK-VF.otf.ttc",
                 "postScriptName": "NotoSansCJKtc-Thin",
-                "weight": "400",
+                "weight": "100",
                 "style": "normal",
                 "supportedAxes": "wght",
                 "index": "3"
@@ -33,7 +33,7 @@
             {
                 "file": "NotoSansCJK-VF.otf.ttc",
                 "postScriptName": "NotoSansCJKjp-Thin",
-                "weight": "400",
+                "weight": "100",
                 "style": "normal",
                 "supportedAxes": "wght",
                 "index": "0"
@@ -47,7 +47,7 @@
             {
                 "file": "NotoSansCJK-VF.otf.ttc",
                 "postScriptName": "NotoSansCJKkr-Thin",
-                "weight": "400",
+                "weight": "100",
                 "style": "normal",
                 "supportedAxes": "wght",
                 "index": "1"

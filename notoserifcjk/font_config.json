@@ -5,7 +5,7 @@
             {
                 "file": "NotoSerifCJK-VF.otf.ttc",
                 "postScriptName": "NotoSerifCJKsc-ExtraLight",
-                "weight": "400",
+                "weight": "200",
                 "style": "normal",
                 "supportedAxes": "wght",
                 "index": "2"
@@ -20,7 +20,7 @@
             {
                 "file": "NotoSerifCJK-VF.otf.ttc",
                 "postScriptName": "NotoSerifCJKtc-ExtraLight",
-                "weight": "400",
+                "weight": "200",
                 "style": "normal",
                 "supportedAxes": "wght",
                 "index": "3"
@@ -35,7 +35,7 @@
             {
                 "file": "NotoSerifCJK-VF.otf.ttc",
                 "postScriptName": "NotoSerifCJKjp-ExtraLight",
-                "weight": "400",
+                "weight": "200",
                 "style": "normal",
                 "supportedAxes": "wght",
                 "index": "0"
@@ -50,7 +50,7 @@
             {
                 "file": "NotoSerifCJK-VF.otf.ttc",
                 "postScriptName": "NotoSerifCJKkr-ExtraLight",
-                "weight": "400",
+                "weight": "200",
                 "style": "normal",
                 "supportedAxes": "wght",
                 "index": "1"
